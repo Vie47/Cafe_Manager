@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Cafe/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Cafe/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Cafe/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/Cafe/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/spatie/laravel-ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/spatie/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/spatie/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/spatie/backtrace" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/mobiledetect/mobiledetectlib" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/fortify" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/laravel/jetstream" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/dasprid/enum" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/jenssegers/agent" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/pragmarx/google2fa" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/jaybizzle/crawler-detect" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/livewire/livewire" />
+      <excludeFolder url="file://$MODULE_DIR$/Cafe/vendor/bacon/bacon-qr-code" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
